@@ -3,92 +3,32 @@
   "WorkspaceRootPath": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1052.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1052.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1051.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1051.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1050.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1050.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1049.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1049.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1046.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1046.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1045.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1045.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1044.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1044.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1043.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1043.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1042.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1042.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1041.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1041.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1040.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1040.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1039.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1039.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1038.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1038.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1037.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1037.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1036.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1036.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1035.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1035.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1034.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1034.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1015.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1015.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1013.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1013.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1010.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1010.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1008.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1008.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1033.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1033.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1032.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1032.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1031.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1031.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1029.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E7BB939-7D83-49BE-BC8B-6823B381068A}|codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B.vcxproj|solutionrelative:codeup-basic-c\u002B\u002B\\1029.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -103,287 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1046.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1046.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1046.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1046.cpp*",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1046.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Title": "1052.cpp",
+              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1052.cpp",
+              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1052.cpp",
+              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1052.cpp*",
+              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1052.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T09:03:14.386Z",
+              "WhenOpened": "2025-01-10T10:10:35.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "1045.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1045.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1045.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1045.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1045.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "1051.cpp",
+              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1051.cpp",
+              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1051.cpp",
+              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1051.cpp",
+              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1051.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:59:42.023Z",
+              "WhenOpened": "2025-01-10T10:09:21.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "1044.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1044.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1044.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1044.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1044.cpp",
+              "Title": "1050.cpp",
+              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1050.cpp",
+              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1050.cpp",
+              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1050.cpp",
+              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1050.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:58:23.331Z",
+              "WhenOpened": "2025-01-10T10:08:18.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "1043.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1043.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1043.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1043.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1043.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "1049.cpp",
+              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1049.cpp",
+              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1049.cpp",
+              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1049.cpp",
+              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1049.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:57:17.197Z",
+              "WhenOpened": "2025-01-10T10:07:02.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "1042.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1042.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1042.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1042.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1042.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "1048.cpp",
+              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1048.cpp",
+              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1048.cpp",
+              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1048.cpp",
+              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1048.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:53:01.021Z",
+              "WhenOpened": "2025-01-10T10:00:51.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "1041.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1041.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1041.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1041.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1041.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "1047.cpp",
+              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1047.cpp",
+              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1047.cpp",
+              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1047.cpp",
+              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1047.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:49:48.204Z",
+              "WhenOpened": "2025-01-10T09:24:09.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "1040.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1040.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1040.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1040.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1040.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "1046.cpp",
+              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1046.cpp",
+              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1046.cpp",
+              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1046.cpp",
+              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1046.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:47:22.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "1039.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1039.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1039.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1039.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1039.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:45:17.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "1038.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1038.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1038.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1038.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1038.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:30:04.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "1037.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1037.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1037.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1037.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1037.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T08:28:32.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "1036.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1036.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1036.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1036.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1036.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:44:25.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "1035.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1035.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1035.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1035.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1035.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:42:54.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "1015.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1015.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1015.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1015.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1015.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:42:16.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "1013.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1013.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1013.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1013.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1013.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:42:16.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "1010.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1010.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1010.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1010.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1010.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:42:15.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "1008.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1008.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1008.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1008.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1008.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:42:14.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "1034.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1034.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1034.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1034.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1034.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:41:13.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "1033.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1033.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1033.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1033.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1033.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:40:13.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "1032.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1032.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1032.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1032.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1032.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:39:22.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "1031.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1031.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1031.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1031.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1031.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:37:41.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "1030.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1030.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1030.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1030.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1030.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:36:12.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "1029.cpp",
-              "DocumentMoniker": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1029.cpp",
-              "RelativeDocumentMoniker": "codeup-basic-c\u002B\u002B\\1029.cpp",
-              "ToolTip": "D:\\study\\algorithm_study\\codeup-basic c\u002B\u002B\\codeup-basic-cpp\\codeup-basic-c\u002B\u002B\\codeup-basic-c\u002B\u002B\\1029.cpp",
-              "RelativeToolTip": "codeup-basic-c\u002B\u002B\\1029.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-07T06:34:21.67Z",
+              "WhenOpened": "2025-01-10T09:23:40.814Z",
               "EditorCaption": ""
             }
           ]
