@@ -11,6 +11,7 @@ int main() {
 	cout << a % b << endl;
 	cout << fixed;
 	cout.precision(2);
+	
 	cout << (float)a / b << endl;
 
 	return 0;
