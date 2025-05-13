@@ -4,7 +4,8 @@ using namespace std;
 
 int main() {
 	int y, m, d;
-	//ÀÔ·Â°ªÀ» ÆÄ½ÌÇØ¾ßÇØ¼­ cÈ°¿ë 
+	
+	//ì…ë ¥ê°’ì„ íŒŒì‹±í•´ì•¼í•´ì„œ cí™œìš© 
 	scanf("%d.%d.%d", &y, &m, &d);
 	printf("%04d.%02d.%02d", y, m, d);
 
