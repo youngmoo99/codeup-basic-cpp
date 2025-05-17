@@ -4,8 +4,9 @@ using namespace std;
 int main() {
 	float x;
 	cin >> x;
-	cout << fixed; // ¼Ò¼öÁ¡ ÀÌÇÏ °íÁ¤ 
-	cout.precision(6); //6ÀÚ¸®·Î °íÁ¤
+	cout << fixed; // ì†Œìˆ˜ì  ì´í•˜ ê³ ì • 
+	cout.precision(6); //6ìë¦¬ë¡œ ê³ ì •
 	cout << x;
+	
 	return 0;
 }
