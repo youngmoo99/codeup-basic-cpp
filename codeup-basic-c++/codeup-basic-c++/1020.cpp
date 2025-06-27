@@ -10,7 +10,6 @@ int main() {
 	while (dash = residentnum.find("-")) {
 		frontnum = residentnum.substr(0, dash);
 		backnum = residentnum.substr(dash + 1, residentnum.length());
-
 		break;
 	}
 	
