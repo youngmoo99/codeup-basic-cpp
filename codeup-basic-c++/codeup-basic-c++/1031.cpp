@@ -2,11 +2,12 @@
 using namespace std;
 
 int main() {
-	//10Áø¼ö -> 8Áø¼ö %o
+	//10ÃÃ¸Â¼Ã¶ -> 8ÃÃ¸Â¼Ã¶ %o
 	int a;
 	cin >> a;
+	
 	printf("%o", a);
-
+	
 	return 0;
 
 }
