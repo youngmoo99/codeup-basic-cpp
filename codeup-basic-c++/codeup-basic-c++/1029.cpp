@@ -7,5 +7,6 @@ int main() {
 	cout << fixed;
 	cout.precision(11);
 	cout << d;
+	
 	return 0;
 }
