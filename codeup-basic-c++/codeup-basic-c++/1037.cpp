@@ -6,5 +6,6 @@ int main() {
 	cin >> a;
 	printf("%c",a);
 
+	
 	return 0;
 }
