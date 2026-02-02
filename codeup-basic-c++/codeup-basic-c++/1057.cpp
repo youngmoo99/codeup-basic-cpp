@@ -4,7 +4,8 @@ using namespace std;
 int main() {
 	int a, b;
 	cin >> a >> b;
-	cout << !(a ^ b); // Âü °ÅÁşÀÌ ¼­·Î °°À»¶§¿¡¸¸ Âü Ãâ·Â
+	
+	cout << !(a ^ b); // ì°¸ ê±°ì§“ì´ ì„œë¡œ ê°™ì„ë•Œì—ë§Œ ì°¸ ì¶œë ¥
 
 	return 0;
 }
