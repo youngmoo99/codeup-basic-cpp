@@ -8,5 +8,6 @@ int main() {
 		if (i % 3 == 0) continue;
 		cout << i << " ";
 	}
+	
 	return 0;
 }
